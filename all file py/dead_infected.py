@@ -1,6 +1,6 @@
 """ Project : Covid-19
     Team    : ไอแห้งเป็นโคโรนา เลิฟยูเป็นบร้าคือเรานะ
-    Data    : Age
+    Data    : Death_Infected
     Year    : 2020
 """
 
