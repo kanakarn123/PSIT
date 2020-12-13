@@ -5,7 +5,7 @@
 > ห่างไกลจากโควิด 19 
 
 ![alt text](photo/_110781797_d3334964-32ff-4463-a604-f021cfaa1a7d.jpg)
-### Website : 
+### Website : http://www.it.kmitl.ac.th/~it63070016/project/docs/index.html
 ### Youtube : 
 # Team
 > 1. 63070014 นางสาวขวัญพิชชา อิ่มโดด
