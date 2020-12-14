@@ -13,6 +13,6 @@
 > 3. 63070016 นายจักราภัทร สุดใจ
 > 4. 63070048 นางสาวณัชชา ธีระแนว
 # Reference
-> https://www.moph.go.th/
+> ข้อมูลเบื้องต้นเกี่ยวกับโคโรน่าและอัตราการติดเชื้อ https://www.moph.go.th/
 
-> https://en.wikipedia.org/wiki/Template:COVID-19_pandemic_data/Thailand_medical_cases
+> ข้อมูลอัตราการเสียชีวิต https://en.wikipedia.org/wiki/Template:COVID-19_pandemic_data/Thailand_medical_cases
