@@ -83,13 +83,13 @@ def dead_admit():
         elif i[0] == '10':
             admit_month10 += 1
 
-    # 12 Month in dead_list
+    # 8 Month in dead_list
     # dead_list = [xxx, xxx, xxx, xxx, xxx, xxx, xxx, xxx, xxx]
     dead_list.append([dead_month3, dead_month4, dead_month5, \
     dead_month6, dead_month7, dead_month8, dead_month9, dead_month10])
     dead_list = dead_list[0]
 
-    # 12 Month in admit_list
+    # 8 Month in admit_list
     # admit_list = [xxx, xxx, xxx, xxx, xxx, xxx, xxx, xxx, xxx]
     admit_list.append([admit_month3, admit_month4, admit_month5, \
     admit_month6, admit_month7, admit_month8, admit_month9, admit_month10])
